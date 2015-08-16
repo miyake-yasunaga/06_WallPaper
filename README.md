@@ -31,10 +31,13 @@ Company Domain   :applabo.sample.com
 ![05](https://github.com/miyake-yasunaga/06_WallPaper/blob/master/images/05.jpg)
 
 壁紙用の画像を準備  
+obake1.png  
 ![obake1](https://github.com/miyake-yasunaga/06_WallPaper/blob/master/image/obake1.png)
+
+obake1.png  
 ![obake2](https://github.com/miyake-yasunaga/06_WallPaper/blob/master/image/obake2.png)
 
-「obake1.jpg」、「obake2.jpg」をコピーして「drawable-nodpi」にpasteします。  
+「obake1.png」、「obake2.png」をコピーして「drawable-nodpi」にpasteします。  
 ![06](https://github.com/miyake-yasunaga/06_WallPaper/blob/master/images/06.jpg)
 ![07](https://github.com/miyake-yasunaga/06_WallPaper/blob/master/images/07.jpg)
 ![08](https://github.com/miyake-yasunaga/06_WallPaper/blob/master/images/08.jpg)
